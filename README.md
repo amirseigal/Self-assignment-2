@@ -4,6 +4,6 @@ Self assignment 2
 | Class  | Done by |
 |--------|---------|
 | IOperation | Masoumeh Delgarmi |
-| IndustrialProcess | Sana Mohammadi |
+| Industrial Process | Sana Mohammadi |
 | Position & Simulation | Amirhossein Soltaninejad |
 | AGV | Amirreza Seighali |
